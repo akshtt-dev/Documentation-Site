@@ -15,8 +15,8 @@ If you need to reach us via email, please use the appropriate address below.
 | :--- | :--- | :--- |
 | **ASN & Dan Contact** | `dan@danbot.host` | [!badge variant="primary" text="Active"] |
 | **DIBSTER Contact** | `dibster@danbot.host` | [!badge variant="primary" text="Active"] |
-| **Donation Support** | `donate@danbot.host` | [!badge variant="primary" text="Delayed"] |
-| **General Support** | `support@danbot.host` | [!badge variant="primary" text="Phasing Out"] |
+| **Donation Support** | `donate@danbot.host` | [!badge variant="warning" text="Delayed"] |
+| **General Support** | `support@danbot.host` | [!badge variant="warning" text="Phasing Out"] |
 | **Abuse Report** | `abuse@danbot.host` | [!badge variant="primary" text="Active"] |
 
 ---
