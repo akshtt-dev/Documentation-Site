@@ -38,7 +38,7 @@ Maintainers: [Jonfirexbox](https://github.com/kyro3400) & [DIBSTER](https://gith
 Original Creator: [Domin](https://github.com/domin-mnd)
 
 !!!
-We're counted as a official source of knowledge. Please note that this documentation is still being worked on and things are still changing. Want to contribute to this project? Visit the documentation's [repository](https://github.com/DanBot-Hosting/DBH-Docs) for more information.
+We're counted as a official source of knowledge. Please note that this documentation is still being worked on and things are still changing. Want to contribute to this project? Visit the documentation's [repository](https://github.com/DanBot-Hosting/Documentation-Site) for more information.
 !!!
 
 ## Rules regarding DBH
