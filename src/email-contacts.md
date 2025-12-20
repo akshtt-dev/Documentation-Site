@@ -1,5 +1,5 @@
 ---
-order: 100
+order: 5
 icon: mail
 ---
 
