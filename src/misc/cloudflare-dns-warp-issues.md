@@ -15,7 +15,7 @@ Cloudflare WARP is a combined DNS and VPN service provided by Cloudflare to run 
 
 Cloudflare WARP by sets the `.host` TLD as a local domain fallback automatically. That means it will try to request the DNS information from your local network.
 
-This makes sense for intranets that have a `.host` domain as their intranet domain. The issue is it's a **public TLD**, so .host is also used on many internet facing sites, such as DanBot Hosting, specifically `danbot.host`.
+This makes sense for intranets that have a `.host` domain as their intranet domain. The issue is it's a **public TLD**, so `.host` is also used on many internet facing sites, such as DanBot Hosting, specifically `danbot.host`.
 
 ## How do I fix it?
 
