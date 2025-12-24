@@ -23,17 +23,24 @@ Follow these steps to create the record in your DNS dashboard.
 
 ### Record Details
 
-[!table-list]
-* **Type:** `SRV`
-* **Name:** Your subdomain (e.g., `play` for `play.yourdomain.com`)
-* **Service:** `_minecraft`
-* **Protocol:** See the tabs below (TCP vs UDP)
-* **TTL:** `Auto`
-* **Priority:** `0`
-* **Weight:** `0`
-* **Port:** Your unique DBH server port
-* **Target:** The node address (e.g., `dono-02.danbot.host` or `dono-04.danbot.host`)
+Field | Value | Description
+:--- | :---: | ---:
+**Type** | `SRV` | The DNS record type
+**Name** | Your subdomain | e.g., `play` for `play.yourdomain.com`
+**Service** | `_minecraft` | The service identifier
+**Protocol** | TCP or UDP | See the tabs below (TCP vs UDP)
+**TTL** | `Auto` | Time to live
+**Priority** | `0` | Priority value
+**Weight** | `0` | Weight value
+**Port** | Your server port | Your unique DBH server port
+**Target** | Node address | e.g., `dono-02.danbot.host` or `dono-04.danbot.host`
 
+---
+### Example:
+
+![Example from Cloudflare|600x400](/media/minecraft-server-proxy-cloudflare.png)
+
+---
 ### Protocol Requirements
 === Java Edition
 For Java Edition players, you must use the **TCP** protocol.
