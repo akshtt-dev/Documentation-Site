@@ -44,5 +44,5 @@ This makes sense for intranets that have a `.host` domain as their intranet doma
 ![WARP Client](/media/cloudflare-warp/cloudflare-warp-6.png)
 
 !!!info Info
-Do note that removing `.host` will result in all .host to be resolved by external DNS and not local. This may or may not break your DNS setup.
+Do note that removing `.host` will result in all `.host` to be resolved by external DNS and not local. This may or may not break your DNS setup.
 !!!
