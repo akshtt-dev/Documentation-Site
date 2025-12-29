@@ -1,7 +1,7 @@
 ---
 order: 5
 icon: globe
-title: Domains
+title: Domains/Sites
 ---
 
 # DanBot Hosting Domains:
@@ -15,6 +15,20 @@ Here is a list of all DanBot Hosting Domains:
 | `danbot.dev` | Testing and development infrastructure. | [!badge variant="warning" text="Not for Public Use"] |
 | `only-fans.club` | Domain available to donators for sudomains. | [!badge variant="primary" text="Active"] |
 
+# List of Sites:
+
+| Site | Purpose | Status |
+| :--- | :--- | :--- |
+| `danbot.host` | Main Homepage | [!badge variant="success" text="Active"] |
+| `panel.danbot.host` | Pterodactyl Panel for Hosting | [!badge variant="success" text="Active"] |
+| `mail.danbot.host` | DanBot Hosting Mail Server | [!badge variant="success" text="Active"] |
+| `private.danbot.host` | Private Pterodactyl Panel | [!badge variant="success" text="Active"] |
+| `billing.danbot.host` | Paymenter Billing Panel | [!badge variant="success" text="Active"] |
+| `docs.danbot.host` | Retype Documentation Site (This Site) | [!badge variant="success" text="Active"] |
+| `service.danbot.host` | Hetrix Status Page | [!badge variant="success" text="Active"] |
+| `vps.danbot.cloud` | VirtFusion VPS Panel | [!badge variant="success" text="Active"] |
+
+
 !!!info Last Updated:
-December 23, 2025.
+December 29, 2025.
 !!!
