@@ -70,3 +70,7 @@ Example: `. --owner 569352110991343616`
 `.` is my prefix, and `--owner 569352110991343616` defines my user ID is the bot owner. Replace it with your ID and your command prefix. For extra developer commands, you can also add `--dev` after your user ID.
 
 Example: `. --owner 569352110991343616 --dev`
+
+!!!info Last Updated:
+December 30, 2025.
+!!!
