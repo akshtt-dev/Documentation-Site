@@ -18,6 +18,8 @@ If you need to reach us via email, please use the appropriate address below.
 | **Donation Support** | `donate@danbot.host` | [!badge variant="warning" text="Delayed"] |
 | **General Support** | `support@danbot.host` | [!badge variant="warning" text="Phasing Out"] |
 | **Abuse Report** | `abuse@danbot.host` | [!badge variant="primary" text="Active"] |
+| **Discord Ban Appeals** | `appeals@danbot.host` | [!badge variant="primary" text="Active"] |
+
 
 ---
 
