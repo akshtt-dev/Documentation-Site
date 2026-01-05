@@ -77,3 +77,7 @@ Once you do that, you're done and you can start your server.
 If you already made something and you want to upload it, you need to compress the file into a .zip or .tar.gz file, and then upload it. **Make sure that you do not compress the `node_modules` file as it's automatically installed when the server starts.** When the file finishes uploading, click the 3 dots and click "unarchive". **Make sure your main file is in the root folder and named index.js unless you know how to use a custom file name.**
 
 If you just have a single file (e.g., index.js), you can just upload that without compressing anything.
+
+!!!info Last Updated:
+January 4, 2025.
+!!!
