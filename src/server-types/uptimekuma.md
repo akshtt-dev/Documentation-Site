@@ -2,7 +2,7 @@
 icon: file
 ---
 
-# Uptimekuma
+# Uptime Kuma
 
 [Uptime Kuma](https://uptimekuma.org/) is a self-hosted monitoring tool used to check whether websites, servers, or services are online.
 
